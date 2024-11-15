@@ -1,0 +1,13 @@
+.dark-bg, .bright-bg {
+    font-family: Helvetica, "Times New Roman", sans-serif;
+    font-size: 28px;
+}
+
+.dark-bg {
+    background-color: rgb(00, 00, 00);
+    color: rgb(256, 256, 256);
+}
+
+.bright-bg {
+    background-color: rgb(255, 245, 51);
+}
